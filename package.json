@@ -1,0 +1,15 @@
+{
+	"name": "scrape",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "npm start"
+	},
+	"author": "Bob Bass",
+	"license": "ISC",
+	"dependencies": {
+		"chromium": "^2.1.1",
+		"puppeteer": "^2.1.1"
+	}
+}
